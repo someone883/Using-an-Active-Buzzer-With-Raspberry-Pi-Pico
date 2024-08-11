@@ -1,4 +1,4 @@
-## Using a Soil Moisture Sensor With Raspberry Pi Pico
+## Using an Active Buzzer With Raspberry Pi Pico
 
 Here is the Schematic
 
